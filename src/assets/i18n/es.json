@@ -1,0 +1,54 @@
+{
+  "etiquetas": {
+    "gestion_archivos": "File management",
+    "ingrese_sistema": "Iniciar sesión",
+    "correo_electronico": "Correo electronico",
+    "contrasenia": "Contraseña",
+    "ingresar": "Ingresar",
+    "recuperarPassword": "Recuperar contraseña",
+    "campos_obligatorios": "Este campo es obligatorio",
+    "error_contrasenia": "Contraseña o correo electronico no validos favor de ingresar nuevamente los datos",
+    "enviar_correo": "Enviar correo",
+    "regresar": "Regresar",
+    "cerrar_sesion": "Cerrar sesión"
+  },
+  "articulos": {
+
+  },
+  "verbos": {
+
+  },
+  "sustantivos": {
+
+  },
+  "reglas_negocio": {
+    "RNN005": "Mensaje de reglas"
+  },
+  "mensajes": {
+    "MSG01": "Campo inválido, la contraseña debe contener los siguientes criterios: 1 letra mayúscula, 1 caracter especial (!@#$&*), al menos 1 digito, al menos 1 letra minúscula y la longitud debe ser de 8 valores."
+  },
+
+  "AA-UP-CU-3":{
+    "titulo": "Bienvenido"
+  },
+  "AA-UP-CU-2":{
+    "titulo": "Recuperar contraseña",
+    "confirmacion": "Recuparacion de contraseña enviada"
+  },
+  "CUXX": {
+    "titulo": "Gestionar aplicaciones",
+    "tabla_[nombre_tabla_1]": {
+      "titulo": "Nombre de la tabla",
+      "fecha": "Fecha",
+      "columna_1": "Columna 1",
+      "columna_2": "Columna 2"
+    },
+    "tabla_[nombre_tabla_2]": {
+      "titulo": "Nombre de la tabla",
+      "fecha": "Fecha"
+    },
+    "acciones": {
+      "eliminar": "Eliminar acceso del servicio"
+    }
+  }
+}
